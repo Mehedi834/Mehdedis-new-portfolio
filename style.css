@@ -4,7 +4,7 @@ body{
 }
 section{
     height: 500px;
-    padding-bottom: 200px;
+    padding-bottom: 230px;
     }
 .top-container{
     background-image: url("images/top-banner.png");
@@ -56,7 +56,7 @@ h1{
 }
 .box-shadow{
     width: 40%;
-    margin-left: 5%;
+    margin-left: 4.5%;
     padding:20px;
     height: 350px;
     box-shadow: 10px 10px 40px grey;
