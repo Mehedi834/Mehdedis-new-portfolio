@@ -4,7 +4,7 @@ body{
 }
 section{
     height: 500px;
-    padding-bottom: 230px;
+    padding-bottom: 250px;
     }
 .top-container{
     background-image: url("images/top-banner.png");
@@ -48,7 +48,8 @@ h1{
 .experience-area{
     background-image: url(images/exp-bg.png); 
     background-repeat: no-repeat;
-    background-position: left;
+    background-position:left;
+    padding-bottom: 130px;
     
 }
 .Experience{
